@@ -1,7 +1,8 @@
 
 # Docker Essentials - Visual Guide
 
-![Docker Essentials](A_digital_infographic_infographic_provides_an_over.png)
+![A_digital_infographic_infographic_provides_an_over 1](https://github.com/user-attachments/assets/3b1d15c9-5584-4a3e-a37e-9495bdb3819b)
+
 
 ## 🚀 Getting started with Docker?
 
