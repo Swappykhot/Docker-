@@ -1,4 +1,5 @@
 
+![Docker_Container_Lifecycle](https://github.com/user-attachments/assets/6795b6a5-4484-4715-b95f-76602ba4f830)
 
 
 
@@ -8,14 +9,6 @@ Dockerfile → Image → Container → Stop/Delete
 📌 This is the journey every application takes in a Dockerized environment:
 
 Dockerfile – Define your app environment.
-
-
-
-
-
-
-
-
 
 Image – Build a snapshot using docker build.
 
