@@ -12,7 +12,7 @@
 
 ---
 
-## 🔧 Real-World Docker Commands
+## 🔧 Docker Commands
 
 ```bash
 # Build an image from Dockerfile
