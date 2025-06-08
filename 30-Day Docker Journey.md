@@ -21,7 +21,7 @@
 
 #### 🚀 **Phase 2: Real-World Use & Intermediate (Day 11–20)**
 
-> Goal: Run databases, apps, secure containers, and real deployment setups.
+**_> Goal: Run databases, apps, secure containers, and real deployment setups._**
 
 | Day | Topic                                |
 | --- | ------------------------------------ |
@@ -40,7 +40,7 @@
 
 #### 🧠 **Phase 3: Advanced & Mastery (Day 21–30)**
 
-> Goal: Performance, orchestration, and advanced tips.
+**_> Goal: Performance, orchestration, and advanced tips._**
 
 | Day | Topic                                                 |
 | --- | ----------------------------------------------------- |
