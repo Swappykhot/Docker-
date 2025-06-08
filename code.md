@@ -73,20 +73,3 @@ This phase dives into advanced topics, preparing you for production environments
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Install Docker**: Follow the [official installation guide](https://docs.docker.com/get-docker/).
-2. **Join the Community**: Check out the [Docker Community](https://community.docker.com/) for support.
-3. **Track Progress**: Use this table to mark completed days:
-   - [ ] Day 1
-   - [ ] Day 2
-   - [ ] ...
-
-## 📚 Additional Resources
-- [Docker Official Documentation](https://docs.docker.com/)
-- [Docker Hub](https://hub.docker.com/)
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
-
----
-
-*Happy containerizing! 🎉 Start your Docker journey today and become a container pro in 30 days!*
