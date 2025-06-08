@@ -2,7 +2,7 @@
 
 #### 🔰 **Phase 1: Foundations (Day 1–10)**
 
-> **_ Goal: Understand container basics, images, volumes, networking, Dockerfiles. _**
+> **_ Goal: Understand container basics, images, volumes, networking, Dockerfiles. **_
 
 | Day | Topic                                                |
 | --- | ---------------------------------------------------- |
