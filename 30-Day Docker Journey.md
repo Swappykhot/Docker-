@@ -1,9 +1,9 @@
 ---
 ### ✅ Here's How We'll Structure the 30-Day Docker Journey:
 
-#### 🔰 **Phase 1: Foundations (Day 1–10)**
+#### 🔰 Phase 1: Foundations (Day 1–10)
 
-Goal: Understand container basics, images, volumes, networking, Dockerfiles.
+Goal: "Understand container basics, images, volumes, networking, Dockerfiles."
 
 | Day | Topic                                                |
 |-----|------------------------------------------------------|
@@ -20,9 +20,9 @@ Goal: Understand container basics, images, volumes, networking, Dockerfiles.
 
 ---
 
-#### 🚀 **Phase 2: Real-World Use & Intermediate (Day 11–20)**
+#### 🚀 Phase 2: Real-World Use & Intermediate (Day 11–20)
 
-Goal: Run databases, apps, secure containers, and real deployment setups.
+Goal: "Run databases, apps, secure containers, and real deployment setups."
 
 | Day | Topic                                |
 |-----|--------------------------------------|
@@ -39,9 +39,9 @@ Goal: Run databases, apps, secure containers, and real deployment setups.
 
 ---
 
-#### 🧠 **Phase 3: Advanced & Mastery (Day 21–30)**
+#### 🧠 Phase 3: Advanced & Mastery (Day 21–30)
 
-Goal: Performance, orchestration, and advanced tips.
+Goal: "Performance, orchestration, and advanced tips."
 
 | Day | Topic                                                 |
 |-----|-------------------------------------------------------|
