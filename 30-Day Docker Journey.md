@@ -1,4 +1,4 @@
-### ✅  30-Day Docker Journey:
+###   30-Day Docker Journey:
 
 #### 🔰 **Phase 1: Foundations (Day 1–10)**
 
