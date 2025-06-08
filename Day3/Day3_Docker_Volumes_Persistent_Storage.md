@@ -75,6 +75,3 @@ docker run -d   -v $(pwd)/data:/app/data   myapp
 > Volumes = Reliability ✅
 
 ---
-
-## 🔖 Hashtags  
-#Docker #DevOps #Volumes #PersistentStorage #Data #Containers #DockerVolumes #DatabaseInDocker #CI_CD #Microservices #SoftwareEngineering #LinkedInLearning
