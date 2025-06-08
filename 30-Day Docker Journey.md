@@ -3,7 +3,7 @@
 
 #### 🔰 **Phase 1: Foundations (Day 1–10)**
 
-> Goal: Understand container basics, images, volumes, networking, Dockerfiles.
+Goal: Understand container basics, images, volumes, networking, Dockerfiles.
 
 | Day | Topic                                                |
 |-----|------------------------------------------------------|
@@ -22,7 +22,7 @@
 
 #### 🚀 **Phase 2: Real-World Use & Intermediate (Day 11–20)**
 
-> Goal: Run databases, apps, secure containers, and real deployment setups.
+Goal: Run databases, apps, secure containers, and real deployment setups.
 
 | Day | Topic                                |
 |-----|--------------------------------------|
@@ -41,7 +41,7 @@
 
 #### 🧠 **Phase 3: Advanced & Mastery (Day 21–30)**
 
-> Goal: Performance, orchestration, and advanced tips.
+Goal: Performance, orchestration, and advanced tips.
 
 | Day | Topic                                                 |
 |-----|-------------------------------------------------------|
