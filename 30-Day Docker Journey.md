@@ -7,7 +7,7 @@
 > Goal: Understand container basics, images, volumes, networking, Dockerfiles.
 
 | Day | Topic                                                |
-| --- | ---------------------------------------------------- |
+
 | 1   | What is Docker? (Intro + Use Cases)                  |
 | 2   | Container Lifecycle (Dockerfile → Image → Container) |
 | 3   | Docker Volumes & Persistent Storage                  |
