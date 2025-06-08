@@ -1,5 +1,4 @@
 ---
-
 ### ✅ Here's How We'll Structure the 30-Day Docker Journey:
 
 #### 🔰 **Phase 1: Foundations (Day 1–10)**
@@ -7,7 +6,7 @@
 > Goal: Understand container basics, images, volumes, networking, Dockerfiles.
 
 | Day | Topic                                                |
-
+|-----|------------------------------------------------------|
 | 1   | What is Docker? (Intro + Use Cases)                  |
 | 2   | Container Lifecycle (Dockerfile → Image → Container) |
 | 3   | Docker Volumes & Persistent Storage                  |
@@ -26,7 +25,7 @@
 > Goal: Run databases, apps, secure containers, and real deployment setups.
 
 | Day | Topic                                |
-| --- | ------------------------------------ |
+|-----|--------------------------------------|
 | 11  | Running MySQL/PostgreSQL with Docker |
 | 12  | Running Node.js/React App in Docker  |
 | 13  | Environment Variables in Docker      |
@@ -45,7 +44,7 @@
 > Goal: Performance, orchestration, and advanced tips.
 
 | Day | Topic                                                 |
-| --- | ----------------------------------------------------- |
+|-----|-------------------------------------------------------|
 | 21  | Multi-Stage Builds                                    |
 | 22  | Docker Health Checks                                  |
 | 23  | Managing Logs & Metrics                               |
@@ -58,5 +57,3 @@
 | 30  | Final Recap + DevOps Resume Tips with Docker Projects |
 
 ---
-
-
