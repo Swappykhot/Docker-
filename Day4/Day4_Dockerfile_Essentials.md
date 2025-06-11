@@ -104,15 +104,3 @@ Now visit `http://localhost:3000` and you should see: `Hello from Docker!`
 
 ---
 
-## 📁 GitHub Template Repo
-
-🎯 A starter template for Node.js + Docker app is available at:  
-👉 [GitHub Template - Node Docker Starter](https://github.com/swapnilkhotdev/docker-node-template)
-
----
-
-## 🏷️ Hashtags for LinkedIn Post
-
-```
-#Docker #Dockerfile #DevOps #Nodejs #WebDevelopment #Containerization #Microservices #SoftwareEngineering #TechLearning #100DaysOfCode
-```
