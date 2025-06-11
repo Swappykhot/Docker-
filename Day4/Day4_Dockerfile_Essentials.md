@@ -1,5 +1,14 @@
-
 # 🚀 Day 4: Dockerfile Essentials
+
+
+
+
+
+![Day4](https://github.com/user-attachments/assets/16968dd0-aca9-4f82-b43e-f7cfe0f72d89)
+
+
+
+
 
 Master the core Dockerfile instructions to build efficient Docker images.
 
